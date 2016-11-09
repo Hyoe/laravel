@@ -1,1 +1,1 @@
-# Registration, Login, and Profile autentication with Laravel PHP Framework.
+# Registration, Login, and Profile authentication with Laravel PHP Framework.
